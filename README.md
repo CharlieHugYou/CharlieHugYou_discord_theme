@@ -1,6 +1,6 @@
 # NEED BETTER DISCORD TO HAVE THE THEME
 **Theme based on the New Rem Theme version 1.4**
 
-My discord theme (in dev)
+My discord theme
 
-Some times i write the theme, but not everytime because im bad in CSS , the reality : i don't know the CSS
+I'm not a CSS developper, i learn in the same times
