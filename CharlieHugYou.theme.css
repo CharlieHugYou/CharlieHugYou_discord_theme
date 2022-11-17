@@ -5,7 +5,9 @@
  * @version 0.1
  */
 
- /* Code based on New Rem Theme version 1.4 */
+ /* Code based on New Rem Theme version 1.4 
+WORK IN PROGRESS
+ */
 
  .app-2CXKsg {
     background-image: url(https://cdn.discordapp.com/attachments/892199839306244157/1036713410206900224/rre.jpg);
@@ -537,7 +539,7 @@
 }
 
 .theme-dark .tooltipPrimary-3qLMbS {
-    background-color: #61A5D8;
+    background-color: palevioletred;
 }
 
 .theme-dark .tooltip-14MtrL {
@@ -546,7 +548,7 @@
 }
 
 .theme-dark .tooltipPrimary-3qLMbS .tooltipPointer-3L49xb {
-    border-top-color: #61A5D8;
+    border-top-color: palevioletred;
 }
 
 #app-mount .divider-2rZFJK {
@@ -556,7 +558,7 @@
 #app-mount .content-3spvdd {
     padding: 5px 8px;
     color: white;
-    background: #61A5D8;
+    background: palevioletred;
     border-radius: 5px;
 }
 
@@ -564,20 +566,20 @@
     border-radius: 0 6px 6px 0;
     text-transform: capitalize;
     color: #fff;
-    background-color: #61A5D8;
+    background-color: palevioletred;
 }
 
 .unreadPillCapStroke-1nE1Q8 {
-    color: #61A5D8;
-    fill: #61A5D8;
+    color: palevioletred;
+    fill: palevioletred;
 }
 
 .updateIconForeground-2V_zo4 {
-    fill: #61A5D8;
+    fill: palevioletred;
 }
 
 .botTagRegular-kpctgU {
-    background: #61A5D8;
+    background: palevioletred;
 }
 
 .guildNameText-jBFbNC, .theme-dark .activityIcon-vfIBet {
@@ -1680,8 +1682,8 @@
 }
 
 .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
-    background-color: rgba(97, 165, 216, .5);
-    border: 3px inset #61A5D8;
+    background-color: palevioletred;
+    border: 3px inset transparent;
 }
 
 .categoryItem-Kc_HK_.selectedCategoryItem-ZjqSui .itemInner-3e_4G4 {
@@ -2276,16 +2278,18 @@
 }
 
 .addFriendInputWrapper-kkoSV9 {
-    background-color: transparent;
+    background: transparent;
     border: none;
 }
 
 .addFriendInput-1Ta-rO {
+    background :transparent;
     color: white;
 }
 
 .input-1bmui3,
 .addFriendHint-1EVQJY {
+    background :transparent;
     padding: 0 12px;
 }
 
@@ -2630,6 +2634,6 @@ min-height: 60px;
 
 }
 
-.member-2gU6Ar{
-    background: transparent;
+.theme-dark .image-3HC6rC{
+    background-image: url("https://cdn.discordapp.com/attachments/892199839306244157/1039623173844521070/NSFWchannel.png");
 }
