@@ -3,4 +3,4 @@
 
 My discord theme
 
-I'm not a CSS developper, i learn in the same times
+I'm not a CSS developper, I'm learn in the same times
